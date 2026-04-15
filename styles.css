@@ -5,9 +5,26 @@ h1 { color:palevioletred;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: bold;
 }
-body{background-color: beige;
+body{
+      background-color: beige;
       border: 2px solid black;
-      border-radius: 24px;}
+      border-radius: 24px;
+      }
+p {
+    color: maroon;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p2 {
+    font-size: 35px;
+    color: purple (12, 106, 152));
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 
 ul {list-style-type:none;
      border:5px solid pink;
@@ -17,10 +34,9 @@ ul {list-style-type:none;
      color: black;}
 
 
-li{display: inline;}
+li{display: inline;
+padding-right: 215px
+color:aliceblue;
+}
 
 
-p    {font-size: 14px;
-      font-family: Georgi;}
-#p2{color:maroon;
-text-align: center;}
