@@ -1,0 +1,26 @@
+/* Place your CSS styles in this file */
+
+h1 { color:palevioletred;
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+}
+body{background-color: beige;
+      border: 2px solid black;
+      border-radius: 24px;}
+
+ul {list-style-type:none;
+     border:5px solid pink;
+     text-align: center;
+     background-color: burlywood;
+     font-size: 30px;
+     color: black;}
+
+
+li{display: inline;}
+
+
+p    {font-size: 14px;
+      font-family: Georgi;}
+#p2{color:maroon;
+text-align: center;}
